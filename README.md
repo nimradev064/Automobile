@@ -16,3 +16,10 @@ This data set consists of three types of entities: <br> (a) the specification of
 The third factor is the relative average loss payment per insured vehicle year. This value is normalized for all autos within a particular size classification (two-door small, station wagons, sports/speciality, etc…), and represents the average loss per car per year. <br>
 
 Note: Several of the attributes in the database could be used as a "class" attribute.
+
+### Resources: <br>
+1. EC2 Instance Deployment on AWS : https://learnwith.campusx.in/blog/deploying-a-streamlit-app-on-aws-ec2#:~:text=Before%20deploying%20your%20Streamlit%20app,and%20port%2022%20for%20SSH. <br>
+2. Linear Regression : https://scikit-learn.org/0.15/modules/generated/sklearn.linear_model.LinearRegression.html <br>
+3. Preprocessing : https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/ <br>
+
+
